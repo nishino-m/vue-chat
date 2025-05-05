@@ -37,7 +37,6 @@
   </script>
   
   <style>
-  /* お好みで */
   input {
     padding: 8px;
     margin-right: 8px;
