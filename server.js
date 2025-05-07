@@ -30,7 +30,7 @@ io.on('connection', (socket) => {
     const timestamp = Date.now();
 
     const item = {
-      id: timestamp, // 数値型のIDとして使う
+      id: timestamp,
       text,
       timestamp
     };
